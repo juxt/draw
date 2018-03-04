@@ -1,0 +1,9 @@
+# Draw
+
+A simple language for SVG diagrams
+
+## Startup
+
+----
+clj -A:dev
+----
